@@ -10,3 +10,8 @@ The proposition of cancer cells in a tumor sample, named as tumor purity, is an 
 3. Install InfiniumPurify from GitHub. 
 <p><code>install_github("Xiaoqizheng/InfiniumPurify")</code> 
 
+## Update
+
+This forked repository includes an update published in <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10308195/"> Hoang 2023 Genes Dev. (PMID 37396507) </a>, which published `modified_InfiniumPurify.R` as a supplementary file. Here, the content in `modified_InfiniumPurify.R` has replaced the original source file. As a result, one may directly install and use the Updated InfiniumPurify package.
+
+To install, simply run <p><code>devtools::install_github("ydavidchen/InfiniumPurifyUpdated")</code>. 
